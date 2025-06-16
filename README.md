@@ -1,4 +1,4 @@
-Simple Calculator
+#Simple Calculator
 A basic web-based calculator built with HTML, CSS, and JavaScript. This project allows users to perform fundamental arithmetic operations such as addition, subtraction, multiplication, division, and modulus through a simple and intuitive interface.
 Features
 
